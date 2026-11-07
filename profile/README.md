@@ -21,6 +21,6 @@ you deposit once and play from a house balance, so a round needs no wallet popup
 - **Swarm**: the full proof bundle for each epoch, stamped with our own postage batch
 - **World ID**: one verified human behind every wallet and every agent, with Agent Pass approvals for the risky moves
 
-also: [arkiv-rs-sdk](https://github.com/TryStrike/arkiv-rs-sdk), the Rust SDK for Arkiv we built along the way (MIT)
+also: [arc-provable-vault](https://github.com/TryStrike/arc-provable-vault), our vault as a reusable Arc template, and [arkiv-rs-sdk](https://github.com/TryStrike/arkiv-rs-sdk), the Rust SDK for Arkiv we built along the way, on [crates.io](https://crates.io/crates/arkiv-rs-sdk). both MIT
 
-built at ETHGlobal Mumbai 2026.. testnet only
+built at ETHGlobal Mumbai 2026
